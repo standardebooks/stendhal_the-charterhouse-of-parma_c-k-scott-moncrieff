@@ -15,11 +15,9 @@ footer{
 	text-align: right;
 }
 
-#chapter-28 > p:last-child{
+#chapter-28 footer{
 	font-variant: small-caps;
-	margin-top: 1em;
 	text-align: center;
-	text-indent: 0;
 }
 
 #chapter-20 blockquote:nth-of-type(1){
