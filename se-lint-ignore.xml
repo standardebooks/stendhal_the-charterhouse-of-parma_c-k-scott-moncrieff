@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-4.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialogue continues on next line.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-12.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialogue continues on next line.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
