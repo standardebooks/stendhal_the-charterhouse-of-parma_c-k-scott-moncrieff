@@ -6,6 +6,10 @@ q{
 	font-style: italic;
 }
 
+i i{
+	font-style: normal;
+}
+
 blockquote[xml|lang]{
 	font-style: italic;
 }
