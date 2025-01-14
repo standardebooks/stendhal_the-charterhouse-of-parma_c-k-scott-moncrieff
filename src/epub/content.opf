@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/stendhal/the-charterhouse-of-parma/c-k-scott-moncrieff</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-14T20:27:02Z</dc:date>
+		<meta property="dcterms:modified">2025-01-14T20:27:02Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,9 +44,11 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young nobleman engages in picaresque adventures across Italy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Fabrizio del Dongo is a young Italian nobleman, raised in comfort in Lombardy. But when Napoleon returns from exile in Elba to try to regain power in Europe, Fabrizio feels compelled to join the army and fight. The naive Fabrizio manages to stumble into the Battle of Waterloo, and thus begin his picaresque adventures as he fights in battles, deals with courtly intrigue, attends a seminary, romances countless women, engages in duels, and endures imprisonment in a fantastical tower.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/stendhal"&gt;Stendahl&lt;/a&gt; worked as a diplomat in northern Italy for decades, and his experiences add a rich versimilitude to the many passages discussing courtly life. This also lends to the novel’s reputation as one of the earliest examples of literary realism; when it was published, it was considered a revolutionary work that went against the current of romanticism that was popular at the time.&lt;/p&gt;
+			&lt;p&gt;He wrote the novel at a breakneck pace, completing it in just fifty-two days. He later admitted that parts of the plot were poorly structured and could have been improved with more careful writing and editing; despite this admission, &lt;i&gt;The Charterhouse of Parma&lt;/i&gt; heavily influenced authors like &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Tolstoy&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James&lt;/a&gt;, who said it is “among the dozen finest novels we possess.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/66374</dc:source>
@@ -54,8 +56,8 @@
 		<dc:source>https://www.google.com/books/edition/The_Charterhouse_of_Parma/8O5JAQAAIAAJ</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Charterhouse_of_Parma/W7yd2tLNOYQC</dc:source>
 		<meta property="se:production-notes">The running heads (subchapters in the PG transcription) have been removed, because they translate poorly to ereader format, and according to modern translator Margaret Mauldon they're "in all probability the work of Stendhal's editor" anyway. (She made up some of her own in her translation.)</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">202242</meta>
+		<meta property="se:reading-ease.flesch">60.79</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Charterhouse_of_Parma</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/stendhal_the-charterhouse-of-parma_c-k-scott-moncrieff</meta>
 		<dc:creator id="author">Stendhal</dc:creator>
