@@ -64,14 +64,14 @@
 		<meta property="file-as" refines="#author">Stendhal</meta>
 		<meta property="se:name.person.full-name" refines="#author">Marie-Henri Beyle</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Stendhal</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n78095494</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095494</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator">C. K. Scott Moncrieff</dc:contributor>
 		<meta property="file-as" refines="#translator">Moncrieff, C. K. Scott</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Charles Kenneth Scott Moncrieff</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/C._K._Scott_Moncrieff</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/n50005771</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50005771</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Jan Willem Pieneman</dc:contributor>
