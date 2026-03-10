@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="chapter-4.xhtml">
 		<ignore code="t-003">
+			<line>17</line>
 			<reason>Dialogue continues on next line.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-12.xhtml">
 		<ignore code="t-003">
+			<line>30</line>
 			<reason>Dialogue continues on next line.</reason>
 		</ignore>
 	</file>
