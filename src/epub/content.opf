@@ -45,6 +45,9 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">13</meta>
 		<dc:description id="description">A young nobleman engages in picaresque adventures across Italy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Fabrizio del Dongo is a young Italian nobleman, raised in comfort in Lombardy. But when Napoleon returns from exile in Elba to try to regain power in Europe, Fabrizio feels compelled to join the army and fight. The naive Fabrizio manages to stumble into the Battle of Waterloo, and thus begin his picaresque adventures as he fights in battles, deals with courtly intrigue, attends a seminary, romances countless women, engages in duels, and endures imprisonment in a fantastical tower.&lt;/p&gt;
