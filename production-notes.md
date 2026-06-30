@@ -1,0 +1,1 @@
+The running heads (subchapters in the PG transcription) have been removed, because they translate poorly to ereader format, and according to modern translator Margaret Mauldon they're "in all probability the work of Stendhal's editor" anyway. (She made up some of her own in her translation.)
