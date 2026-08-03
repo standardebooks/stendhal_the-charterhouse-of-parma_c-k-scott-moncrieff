@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/stendhal/the-charterhouse-of-parma/c-k-scott-moncrieff</dc:identifier>
 		<dc:date>2025-01-14T20:27:02Z</dc:date>
@@ -49,12 +49,12 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">13</meta>
-		<dc:description id="description">A young nobleman engages in picaresque adventures across Italy.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young nobleman engages in picaresque adventures across Italy.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Fabrizio del Dongo is a young Italian nobleman, raised in comfort in Lombardy. But when Napoleon returns from exile in Elba to try to regain power in Europe, Fabrizio feels compelled to join the army and fight. The naive Fabrizio manages to stumble into the Battle of Waterloo, and thus begin his picaresque adventures as he fights in battles, deals with courtly intrigue, attends a seminary, romances countless women, engages in duels, and endures imprisonment in a fantastical tower.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/stendhal"&gt;Stendhal&lt;/a&gt; worked as a diplomat in northern Italy for decades, and his experiences add a rich verisimilitude to the many passages discussing courtly life. This also lends to the novel’s reputation as one of the earliest examples of literary realism; when it was published, it was considered a revolutionary work that went against the current of romanticism that was popular at the time.&lt;/p&gt;
 			&lt;p&gt;He wrote the novel at a breakneck pace, completing it in just fifty-two days. He later admitted that parts of the plot were poorly structured and could have been improved with more careful writing and editing; despite this admission, &lt;i&gt;The Charterhouse of Parma&lt;/i&gt; heavily influenced authors like &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Tolstoy&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James&lt;/a&gt;, who said it is “among the dozen finest novels we possess.”&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/66374</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/66375</dc:source>
