@@ -49,7 +49,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">13</meta>
-		<dc:abstract>A young nobleman engages in picaresque adventures across Italy.</dc:abstract>
+		<meta property="schema:abstract">A young nobleman engages in picaresque adventures across Italy.</meta>
 		<dc:description>
 			&lt;p&gt;Fabrizio del Dongo is a young Italian nobleman, raised in comfort in Lombardy. But when Napoleon returns from exile in Elba to try to regain power in Europe, Fabrizio feels compelled to join the army and fight. The naive Fabrizio manages to stumble into the Battle of Waterloo, and thus begin his picaresque adventures as he fights in battles, deals with courtly intrigue, attends a seminary, romances countless women, engages in duels, and endures imprisonment in a fantastical tower.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/stendhal"&gt;Stendhal&lt;/a&gt; worked as a diplomat in northern Italy for decades, and his experiences add a rich verisimilitude to the many passages discussing courtly life. This also lends to the novel’s reputation as one of the earliest examples of literary realism; when it was published, it was considered a revolutionary work that went against the current of romanticism that was popular at the time.&lt;/p&gt;
