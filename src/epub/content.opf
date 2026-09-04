@@ -32,9 +32,9 @@
 		<meta property="file-as" refines="#title">Charterhouse of Parma, The</meta>
 		<dc:subject id="subject-1">Love stories</dc:subject>
 		<dc:subject id="subject-2">Political fiction</dc:subject>
-		<dc:subject id="subject-3">Parma (Italy) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Italy -- Social life and customs -- 19th century -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Young men -- Italy -- Parma -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Parma (Italy)--Fiction</dc:subject>
+		<dc:subject id="subject-4">Italy--Social life and customs--19th century--Fiction</dc:subject>
+		<dc:subject id="subject-5">Young men--Italy--Parma--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
